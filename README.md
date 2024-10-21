@@ -36,11 +36,7 @@ Veri seti, diabetes hastalığına sahip olan bireylerin çeşitli sağlık gös
 5. **Sonuçların Karşılaştırılması**: Her iki modelin sonuçları karşılaştırılarak grafik üzerinde gösterilir.
 6. **Sonuçların Değerlendirilmesi**: Model başarı metrikleri (ortalama kare hatası, R² skoru vb.) hesaplanır.
 
-## Kullanım
 
-Proje dosyalarını indirdikten sonra, aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
 
-1. Gerekli kütüphaneleri yükleyin:
 
-   ```bash
-   pip install -r requirements.txt
+
